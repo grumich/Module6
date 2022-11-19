@@ -1,0 +1,28 @@
+a{
+    font-weight: 600;
+    font-size: 15pt;
+    color: #000;
+}
+label{
+    font-size:14pt;
+}
+li{
+    list-style-type: none;
+}
+input{
+    width: 200px;
+    height: 35px;
+    border-radius:15px;
+    border: 1px solid;
+}
+button{
+    height: 40px;
+    border-radius:15px;
+    border: 1px solid;
+}
+button:active{
+    transform: scale(0.95);
+}
+button:hover{
+    box-shadow: 0px 2px 8px #7172727a;
+}
